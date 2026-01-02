@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **3rd Year Software Engineering Student** at **Al-Mustafa University**
+- 🎓 **4rd Year Software Engineering Student** at **Arba Minch University**
 - 🌍 Based in **Addis Ababa, Ethiopia**
 - 💻 Passionate about **building real-world web applications**
 - 🚀 Actively seeking **Software Engineering / Web Development internships**
@@ -52,34 +52,9 @@
 
 ---
 
-### 📌 Featured Projects
-
-#### 🔹 Portfolio Website
-- Responsive portfolio built with **React & Tailwind CSS**
-- Showcases projects, resume, and contact form  
-- 🚀 Deployed on **Vercel**  
-🔗 **Live:** https://portifolio-tan-phi-69.vercel.app
-
-#### 🔹 Fuel Distribution Control System *(In Progress)*
-- Java-based desktop application
-- Features:
-  - User authentication
-  - Fuel stock management
-  - Purchase limits
-  - Transaction logging
-  - Admin dashboard
-  - Station availability tracking
-
-#### 🔹 Netflix & Apple UI Clones
-- Pixel-perfect landing page clones
-- Built with **HTML, CSS, JavaScript**
-- Focus on layout accuracy & responsiveness
-
----
-
 ### 🎓 Education
 **BSc in Software Engineering**  
-Al-Mustafa University, Ethiopia  
+Arba Minch University, Ethiopia  
 📅 Expected Graduation: **2026**  
 ⭐ GPA: **3.7 / 4.0**
 
@@ -93,22 +68,12 @@ Al-Mustafa University, Ethiopia
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:bemnetkassa76@gmail.com">
+  <a href="mailto:bemnetkassa79@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BemnetKassa&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BemnetKassa&theme=tokyonight"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BemnetKassa&layout=compact&theme=tokyonight"/>
-</p>
