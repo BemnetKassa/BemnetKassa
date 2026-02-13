@@ -1,102 +1,67 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](#)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Bemnet Kassa</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Web Developer</h3>
+  <img src="https://media.giphy.com/media/vf72L4i5KgyDc1D7s/giphy.gif" width="100px"/>
 
-<p align="center">
-  <img alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-</p>
+  # Hi there, I'm Bemnet Kassa 👋
 
----
+  ### 👨‍💻 Software Engineering Student | Full-Stack Web Developer
 
-<p align="center"><b>“Turning ideas into reality, one line of code at a time.”</b></p>
+  <p>
+    <i>"Turning ideas into reality, one line of code at a time."</i>
+  </p>
 
----
-
-### 👨‍💻 About Me
-
-- 🎓 **4th Year Software Engineering Student** at **Arba Minch University**
-- 🌍 Based in **Addis Ababa, Ethiopia**
-- 💻 Passionate about **building real-world web applications**
-- 🚀 Actively seeking **Software Engineering / Web Development internships**
-- 🧠 Always learning new technologies and best practices
-- 🤝 Love collaborating on open-source and team projects
-
----
-
-### 🛠️ Tech Stack
-
-#### Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-</p>
-
-#### Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
-  <img src="https://vitejs.dev/logo.svg" width="40" alt="Vite"/>
-</p>
-
-#### Backend & Database
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="40" alt="Prisma"/>
-</p>
-
-#### Tools & Concepts
-
-- Git & GitHub  
-- REST APIs  
-- MVC Architecture  
-- Authentication & Authorization  
-- Responsive Design  
-- Agile & Scrum
-
----
-
-### 🎓 Education
-
-**BSc in Software Engineering**  
-Arba Minch University, Ethiopia  
-📅 Expected Graduation: **2026**  
-⭐ GPA: **3.7 / 4.0**
-
----
-
-### ✨ Fun Facts
-
-- 🏆 Hackathon enthusiast & coding competition participant
-- ☕ Fuelled by coffee and curiosity
-- 🎵 Music and podcasts keep me in the zone
-- 🌱 Currently learning: TypeScript, GraphQL, and Cloud Deployment
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/BemnetKassa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bemnet-kassa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/bemnet-kassa/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:bemnetkassa79@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-</p>
+  <a href="https://github.com/BemnetKassa">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+
+  <br/><br/>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BemnetKassa&show_icons=true&theme=radical" alt="Bemnet's GitHub Stats"/>
-</p>
+### 🧐 About Me
+
+I am a **4th Year Software Engineering Student** at **Arba Minch University** based in **Addis Ababa, Ethiopia**. I am passionate about engineering robust web applications and solving real-world problems through code.
+
+- 🎓 **Education:** BSc in Software Engineering (Expected 2026) | **GPA: 3.7 / 4.0**
+- 🔭 **Currently working on:** Full-stack web applications using the MERN stack.
+- 🌱 **Currently learning:** TypeScript, GraphQL, and Cloud Architecture.
+- 🚀 **Goals:** Actively seeking **Internships** to apply my skills in a professional environment.
+- 🤝 **Collaboration:** I love working on open-source projects and participating in hackathons.
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+| **Languages** | **Frontend** | **Backend & Database** |
+|:---:|:---:|:---:|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <br/> ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) <br/> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) <br/> ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) <br/> ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) <br/> ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white) <br/> ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+
+</div>
+
+**Tools & Practices:**  
+`Git & GitHub` • `REST APIs` • `MVC Architecture` • `Agile & Scrum` • `VS Code`
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BemnetKassa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Bemnet's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BemnetKassa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ by Bemnet Kassa</sub>
+</div>
