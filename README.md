@@ -61,6 +61,14 @@ I am a **4th Year Software Engineering Student** at **Arba Minch University** ba
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BemnetKassa&theme=radical" alt="Profile Details" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BemnetKassa&theme=radical&no-frame=true&column=7" alt="Bemnet's Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/BemnetKassa?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&config.timezone=Africa%2FAddis_Ababa" alt="Metrics" />
+</div>
 ---
 
 <div align="center">
