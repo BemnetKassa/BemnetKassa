@@ -55,9 +55,13 @@ I am a **4th Year Software Engineering Student** at **Arba Minch University** ba
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BemnetKassa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Bemnet's GitHub Stats" />
+  <!-- General Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BemnetKassa&show_icons=true&theme=radical" alt="Bemnet's GitHub Stats" />
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BemnetKassa&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BemnetKassa&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
