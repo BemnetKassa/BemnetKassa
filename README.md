@@ -58,6 +58,9 @@ I am a **4th Year Software Engineering Student** at **Arba Minch University** ba
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BemnetKassa&theme=radical" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BemnetKassa&theme=radical" alt="Profile Details" />
+</div>
 ---
 
 <div align="center">
