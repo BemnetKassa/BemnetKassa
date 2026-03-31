@@ -1,6 +1,8 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/vf72L4i5KgyDc1D7s/giphy.gif" width="100px"/>
+  <video autoplay muted loop playsinline id="background-video">
+    <source src="./bk.mp4" type="video/mp4">
+  </video>
 
   # Hi there, I'm Bemnet Kassa 👋
 
