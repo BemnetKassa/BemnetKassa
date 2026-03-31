@@ -40,7 +40,7 @@ I am a **4th Year Software Engineering Student** at **Arba Minch University** ba
 ### 🛠️ Technical Arsenal
 
 <div >
-<h1>Language</h1> https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev
+<h1>Language</h1> (https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <h1>Frontend frameworks</h1>
 <h1>backend frameworks</h1>
 </div>
