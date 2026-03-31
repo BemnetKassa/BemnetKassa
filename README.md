@@ -1,26 +1,26 @@
-<div align="center">
-
-  <video autoplay muted loop playsinline id="background-video">
-    <source src="./bk.mp4" type="video/mp4">
-  </video>
-
   # Hi there, I'm Bemnet Kassa 👋
-
+  
   ### 👨‍💻 Software Engineering Student
 
   <p>
     <i>"Turning ideas into reality, one line of code at a time."</i>
   </p>
 
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Bemnet+Kassa+👋;Full-Stack+Developer;Building+Real-World+Projects;Open+to+Internships" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/bemnet-kassa/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:bemnetkassa79@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/BemnetKassa">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github"/>
   </a>
+</p>
 
   <br/><br/>
 </div>
