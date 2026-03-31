@@ -4,7 +4,7 @@
 
   # Hi there, I'm Bemnet Kassa 👋
 
-  ### 👨‍💻 Software Engineering Student | Full-Stack Web Developer
+  ### 👨‍💻 Software Engineering Student
 
   <p>
     <i>"Turning ideas into reality, one line of code at a time."</i>
