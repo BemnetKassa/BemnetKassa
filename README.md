@@ -39,7 +39,7 @@ I am a **4th Year Software Engineering Student** at **Arba Minch University** ba
 
 ### 🛠️ Technical Arsenal
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,Shadcn/ui,framer,javaScript,typeScript,C++,java,php,react,nodejs,nextjs,nestjs,kotlin,prisma,docker,supabase,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,shadcn/ui,framerMotion,javaScript,typeScript,C++,java,php,react,nodejs,nextjs,nestjs,kotlin,prisma,docker,supabase,firebase)](https://skillicons.dev)
 
 **Tools & Practices:**  
 `Git & GitHub` • `REST APIs` • `MVC Architecture` • `Agile & Scrum` • `VS Code` • `Vercel`
